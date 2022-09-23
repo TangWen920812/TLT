@@ -1,1 +1,1 @@
-Code for paper "Transformer Lesion Tracker". Will be update soon.
+Code for MICCAI 2022 paper: "Transformer Lesion Tracker".
